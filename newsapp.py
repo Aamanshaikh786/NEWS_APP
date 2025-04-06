@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import requests
 
-API_KEY = "e4bcb8c2e52f48d889d96fab49a051e4"
+API_KEY = "enter your API_KEY here"
 URL = "https://newsapi.org/v2/top-headlines"
 
 def fetch_news(category):
